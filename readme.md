@@ -1,4 +1,4 @@
-
+do everything for me 
 <!-- Glowing Header -->
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
@@ -12,7 +12,7 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
 
-<!-- Banner Image -->
+<1-- Banner Image -->
 <p align="center">
   <a href="https://files.catbox.moe/c07f3s.jpeg">
     <img src="https://files.catbox.moe/c07f3s.jpeg" width="100%" height="auto">
